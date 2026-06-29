@@ -1,4 +1,4 @@
-# ProjectTwo
+# Analyst and Design
 
 In these projects, I was mainly trying to take course information and turn it into something a program could actually use, load the data, organize it, and then print it out in a clean alphanumeric order. For the first project, the focus was on understanding the trade-offs between different data structures in terms of runtime and memory usage, and why that matters when your program has to search, insert, or sort data. For the second project, it was about putting that idea into practice by writing working code that reads the course list and outputs it correctly.
 
